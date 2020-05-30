@@ -13,7 +13,6 @@
 		6C8FA46A2450A934005B6F39 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C8FA4692450A934005B6F39 /* ViewController.swift */; };
 		6C8FA46F2450A939005B6F39 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C8FA46E2450A939005B6F39 /* Assets.xcassets */; };
 		6C8FA4722450A939005B6F39 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C8FA4702450A939005B6F39 /* LaunchScreen.storyboard */; };
-		6CF6AEC92450AF4D005C5513 /* FCRN.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 6CF6AEC82450AF4D005C5513 /* FCRN.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		6C8FA46E2450A939005B6F39 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6C8FA4712450A939005B6F39 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6C8FA4732450A93A005B6F39 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6CF6AEC82450AF4D005C5513 /* FCRN.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = FCRN.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,7 +61,6 @@
 				6C8FA4672450A934005B6F39 /* SceneDelegate.swift */,
 				6C8FA4692450A934005B6F39 /* ViewController.swift */,
 				6C8FA46E2450A939005B6F39 /* Assets.xcassets */,
-				6CF6AEC82450AF4D005C5513 /* FCRN.mlmodel */,
 				6C8FA4702450A939005B6F39 /* LaunchScreen.storyboard */,
 				6C8FA4732450A93A005B6F39 /* Info.plist */,
 			);
@@ -142,7 +139,6 @@
 			files = (
 				6C8FA46A2450A934005B6F39 /* ViewController.swift in Sources */,
 				6C5AD245245740AD009264BA /* Rotatable.swift in Sources */,
-				6CF6AEC92450AF4D005C5513 /* FCRN.mlmodel in Sources */,
 				6C8FA4662450A934005B6F39 /* AppDelegate.swift in Sources */,
 				6C8FA4682450A934005B6F39 /* SceneDelegate.swift in Sources */,
 			);
